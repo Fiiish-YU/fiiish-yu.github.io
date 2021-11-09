@@ -1,5 +1,8 @@
 ## Welcome to my GitHub Pages
 
-visit the [blog](https://fiiish-yu.github.io/) here
+you can visit the [blog](https://fiiish-yu.github.io/) here
 
-you can see my paintings [here](https://fiiish-yu.github.io/paintings/)
+also see :
+[my paintings](https://fiiish-yu.github.io/paintings/index)
+[my fiction](https://fiiish-yu.github.io/redleaf/index)
+[my notebook](https://fiiish-yu.github.io/notebook/index)
