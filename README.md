@@ -4,8 +4,10 @@
 
 **or just the specific content :**
 
-> - [my paintings](https://fiiish-yu.github.io/paintings/index)
+> - [paintings](https://fiiish-yu.github.io/paintings/index)
 >
-> - [my fiction](https://fiiish-yu.github.io/redleaf/index)
+> - [fiction](https://fiiish-yu.github.io/redleaf/index)
 >
-> - [my notebook](https://fiiish-yu.github.io/notebook/index)
+> - [notebook](https://fiiish-yu.github.io/notebook/index)
+
+my github : https://github.com/Fiiish-YU

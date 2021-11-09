@@ -5,11 +5,11 @@
 
 ### 缘结神
 ![缘缘1](/images/IMG_1161.PNG)
+
 ![缘缘2](/images/IMG_1158.PNG)
 
 ### 豆子
 ![豆子](/images/IMG_1160.PNG)
 
 [*back to index*](https://fiiish-yu.github.io/paintings/index)
-
 [*back to home*](https://fiiish-yu.github.io/)
