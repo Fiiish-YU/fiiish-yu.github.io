@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-<font color=pink>Hi，欢迎你的来访~</font>![](/images/magical_star/a.png)
+<font color=pink>Hi，欢迎你的来访~![](/images/magical_star/a.png)</font>
 
 **You can visit the [blog here](https://fiiish-yu.github.io/).**
 
