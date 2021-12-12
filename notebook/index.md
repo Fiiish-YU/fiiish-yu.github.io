@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 学习笔记
-permalink: /redleaf/
+permalink: /notebook/
 ---
 
 <font color = pink> 2020-12-23  </font>

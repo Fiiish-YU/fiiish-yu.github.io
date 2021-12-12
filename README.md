@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+Welcome to my GitHub Pages
 
 ![](/images/magical_star/a.png)
 <font color=pink>Hi，欢迎你的来访~</font>
@@ -7,7 +7,7 @@
 
 **or just the specific content :**
 
-- [paintings](https://fiiish-yu.github.io/paintings/index)：这里有一些我的绘画作品
+- [paintings](/paintings/index)：这里有一些我的绘画作品
 - [fiction](https://fiiish-yu.github.io/redleaf/index)：这里是我的小说《红叶城》
 - [notebook](https://fiiish-yu.github.io/notebook/index)：这里是一些小笔记
 
