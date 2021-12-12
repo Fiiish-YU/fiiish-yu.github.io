@@ -2,7 +2,7 @@
 layout: default
 title: 红叶城
 description: this is the fiction page.
-permalink: /fiction/
+permalink: /redleaf/
 ---
 
 ## 红叶城
