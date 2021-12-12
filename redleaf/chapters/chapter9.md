@@ -40,7 +40,7 @@
 >
 >钱梨捏起一枚葡萄丢进嘴里，心想，下一个话本写点什么呢...最近有人小动作不断，她可要先把握好民众。万众一心，自然无后顾之忧~
 
-- [*next chapter :* 第10章 暗·夜](https://fiiish-yu.github.io/redleaf/chapter10)
-- [*last chapter :* 第8章 入职扫地工](https://fiiish-yu.github.io/redleaf/chapter8)
+- [*next chapter :* 第10章 暗·夜](https://fiiish-yu.github.io/redleaf/chapters/chapter10)
+- [*last chapter :* 第8章 入职扫地工](https://fiiish-yu.github.io/redleaf/chapters/chapter8)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)

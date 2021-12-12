@@ -16,6 +16,6 @@
 >
 >   “哦～那谢过小先生啦，您就放心吧！～”小姑娘眼睛弯弯，开心极了，牵着马儿很快便消失在众人眼前。
 
-- [*next chapter :* 第2章 苏家](https://fiiish-yu.github.io/redleaf/chapter2)
+- [*next chapter :* 第2章 苏家](https://fiiish-yu.github.io/redleaf/chapters/chapter2)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)

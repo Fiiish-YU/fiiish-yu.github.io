@@ -19,7 +19,7 @@
 >这一番话听下来，阿棠心里可谓是跌宕起伏，又是恼了姐姐的吩咐，又是惊喜于爷爷要来，最后开始担忧今晚可住哪儿是好呀...想到这里，小脑袋抬起来看着和蔼可亲的老人，眼里漫着一丝丝雾气，“阿棠知道啦，阿棠待会儿就去找差事做，但是小哼已经饿坏了可不可以寄养在这里呀洪伯～”
 听这语气里净是乖巧与可怜，洪伯心里叹了口气，点头答应了。
 
-- [*next chapter :* 第6章 密信](https://fiiish-yu.github.io/redleaf/chapter6)
-- [*last chapter :* 第4章 云清](https://fiiish-yu.github.io/redleaf/chapter4)
+- [*next chapter :* 第6章 密信](https://fiiish-yu.github.io/redleaf/chapters/chapter6)
+- [*last chapter :* 第4章 云清](https://fiiish-yu.github.io/redleaf/chapters/chapter4)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)

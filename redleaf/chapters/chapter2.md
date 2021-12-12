@@ -14,7 +14,7 @@
 >
 >   少年瞧了身边气鼓鼓的小妹一眼，说了声“好。”又继续往前走，声音干净清冽，却掩不住笑意。
 
-- [*next chapter :* 第3章 小酒馆](https://fiiish-yu.github.io/redleaf/chapter3)
-- [*last chapter :* 第1章 进城啦](https://fiiish-yu.github.io/redleaf/chapter1)
+- [*next chapter :* 第3章 小酒馆](https://fiiish-yu.github.io/redleaf/chapters/chapter3)
+- [*last chapter :* 第1章 进城啦](https://fiiish-yu.github.io/redleaf/chapters/chapter1)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)

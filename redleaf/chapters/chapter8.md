@@ -97,7 +97,7 @@
 >小花看着两人渐渐走远，叹了口气。
 她真的很爱这里的生活...五年没回家了，她想哥哥了。
 
-- [*next chapter :* 第9章 落尘与尘](https://fiiish-yu.github.io/redleaf/chapter9)
-- [*last chapter :* 第7章 唐酒酒](https://fiiish-yu.github.io/redleaf/chapter7)
+- [*next chapter :* 第9章 落尘与尘](https://fiiish-yu.github.io/redleaf/chapters/chapter9)
+- [*last chapter :* 第7章 唐酒酒](https://fiiish-yu.github.io/redleaf/chapters/chapter7)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)

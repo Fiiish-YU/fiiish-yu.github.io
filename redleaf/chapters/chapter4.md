@@ -26,7 +26,7 @@
 >
 >看着眼前的人走了个干净，花沫又恢复了之前的姿势，不管腕上的铃铛叮叮当当响，继续发呆。
 
-- [*next chapter :* 第5章 贫穷棠棠](https://fiiish-yu.github.io/redleaf/chapter5)
-- [*last chapter :* 第3章 小酒馆](https://fiiish-yu.github.io/redleaf/chapter3)
+- [*next chapter :* 第5章 贫穷棠棠](https://fiiish-yu.github.io/redleaf/chapters/chapter5)
+- [*last chapter :* 第3章 小酒馆](https://fiiish-yu.github.io/redleaf/chapters/chapter3)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)

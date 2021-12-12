@@ -39,7 +39,7 @@
 院子某个角落丽姐姐和苏尧刚刚碰上面，
 酒酒下了楼，拎着一袋子药慢慢悠悠走进整个酒馆最里的院子，此时风停了，阳光很好，温度很舒服，一切，都刚刚好。
 
-- [*next chapter :* 第8章 入职扫地工](https://fiiish-yu.github.io/redleaf/chapter8)
-- [*last chapter :* 第6章 密信](https://fiiish-yu.github.io/redleaf/chapter6)
+- [*next chapter :* 第8章 入职扫地工](https://fiiish-yu.github.io/redleaf/chapters/chapter8)
+- [*last chapter :* 第6章 密信](https://fiiish-yu.github.io/redleaf/chapters/chapter6)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)

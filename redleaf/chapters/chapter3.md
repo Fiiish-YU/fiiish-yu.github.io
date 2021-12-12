@@ -10,7 +10,7 @@
 >
 >这一闹，便是仅有的一点困意也消失了。小花无聊的抬起头，望着门口发呆，一只胳膊撑着脑袋，腕上的铃铛叮叮的响。
 
-- [*next chapter :* 第4章 云清](https://fiiish-yu.github.io/redleaf/chapter4)
-- [*last chapter :* 第2章 苏家](https://fiiish-yu.github.io/redleaf/chapter2)
+- [*next chapter :* 第4章 云清](https://fiiish-yu.github.io/redleaf/chapters/chapter4)
+- [*last chapter :* 第2章 苏家](https://fiiish-yu.github.io/redleaf/chapters/chapter2)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)

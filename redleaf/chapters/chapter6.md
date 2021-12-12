@@ -22,7 +22,7 @@
 >云清第一个反应过来，抓着手里的茶杯就甩了出去，只可惜窗外只传来杯子砸地的声音以及贱兮兮的喊声:“你敢摔杯子老板娘下次铁定揍你哈哈哈哈哈哈哈哈...”
 ...
 
-- [*next chapter :* 第7章 唐酒酒](https://fiiish-yu.github.io/redleaf/chapter7)
-- [*last chapter :* 第5章 贫穷棠棠](https://fiiish-yu.github.io/redleaf/chapter5)
+- [*next chapter :* 第7章 唐酒酒](https://fiiish-yu.github.io/redleaf/chapters/chapter7)
+- [*last chapter :* 第5章 贫穷棠棠](https://fiiish-yu.github.io/redleaf/chapters/chapter5)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)
