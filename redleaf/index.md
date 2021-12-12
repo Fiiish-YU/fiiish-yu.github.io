@@ -5,8 +5,7 @@ description: this is the fiction page.
 permalink: /redleaf/
 ---
 
-## 红叶城
-> 一座城里，每个人，都有属于自己的故事。
+一座城里，每个人，都有属于自己的故事。
 
 **章节列表：**
 
