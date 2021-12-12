@@ -1,5 +1,8 @@
-## 红叶城前传
-> 前尘往事。
+---
+title: 红叶城
+description: this is the fiction page.
+permalink: /fiction/
+---
 
 ## 红叶城
 > 一座城里，每个人，都有属于自己的故事。
