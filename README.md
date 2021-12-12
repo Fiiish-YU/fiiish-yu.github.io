@@ -1,6 +1,5 @@
 ## Welcome to my GitHub Pages
 
-
 ![](/images/magical_star/a.png)
 <font color=pink>Hi，欢迎你的来访~</font>
 

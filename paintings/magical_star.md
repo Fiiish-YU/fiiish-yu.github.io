@@ -1,4 +1,4 @@
-## 魔法星星与小橙子
+魔法星星与小橙子
 > 嗨~欢迎来到两小只的形象画廊！
 
 ![](/images/magical_star/littletwo.png)
