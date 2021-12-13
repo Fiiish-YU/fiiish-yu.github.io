@@ -1,5 +1,8 @@
+---
+layout: default
+---
 
-## Welcome to my GitHub Pages
+Welcome to my GitHub Pages
 
 ![](/images/magical_star/a.png)
 <font color=pink>Hi，欢迎你的来访~</font>
@@ -9,8 +12,8 @@
 **or just the specific content :**
 
 - [paintings](/paintings/index)：这里有一些我的绘画作品
-- [fiction](https://fiiish-yu.github.io/redleaf/index)：这里是我的小说《红叶城》
-- [notebook](https://fiiish-yu.github.io/notebook/index)：这里是一些小笔记
+- [fiction](/redleaf/index)：这里是我的小说《红叶城》
+- [notebook](/notebook/index)：这里是一些小笔记
 
 另外，以下是我的GitHub主页：
 [my github](https://github.com/Fiiish-YU) : https://github.com/Fiiish-YU

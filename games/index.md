@@ -1,0 +1,8 @@
+---
+layout: default
+title: 游戏评说
+description: this is the my game life.
+permalink: /games/
+---
+
+this is a test.
