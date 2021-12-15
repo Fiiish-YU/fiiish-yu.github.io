@@ -7,7 +7,6 @@ Welcome to my GitHub Pages
 <font color=pink>Hi，欢迎你的来访~</font>
 ![](/assets/images/magical_star/a.png)
 
-
 - [paintings](/paintings/index)：这里有一些我的绘画作品
 - [fiction](/redleaf/index)：这里是我的小说《红叶城》
 - [notebook](/notebook/index)：这里是一些小笔记
