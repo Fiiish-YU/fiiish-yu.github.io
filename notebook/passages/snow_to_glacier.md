@@ -1,6 +1,6 @@
-万年冰川是怎样形成的呢？
+#### 雪转换为冰川冰
 
-## 雪转换为冰川冰
+万年冰川是怎样形成的呢？
 
 根据阅读的书籍，整理出关于雪转化成冰的过程。
 在**秦大河的《南极冰川学》中**，雪转化成冰的主要过程包括：
@@ -24,6 +24,5 @@
 ![](/assets/images/notebook/640.png)
 注：（a）雪花到似球状雪粒的形成过程（b）烧结（c）烧结分步过程
 
-[*back to index*](/notebook/index)
-
-[*back to home*](https://fiiish-yu.github.io/)
+<p align="right">[*back to index*](/notebook/index)</p>
+<p align="right">[*back to home*](https://fiiish-yu.github.io/)</p>
