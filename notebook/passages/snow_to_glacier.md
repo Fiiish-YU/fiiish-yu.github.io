@@ -1,4 +1,4 @@
-<center> 雪转换为冰川冰</center>
+### 雪转换为冰川冰
 万年冰川是怎样形成的呢？
 
 根据阅读的书籍，整理出关于雪转化成冰的过程。
@@ -22,5 +22,6 @@
 3. 正是因为冰内孔隙不联通，冰内气泡就可以保存冰在形成年代的大气组成成分，通过钻取冰芯研究，证明了在过去四十万年间大气的温度，冰川、冰盖体积是与大气中的CO2含量密切相关的。越是冷的环境，冰内气泡的形成所需时间更长，比如，几十米至一百米深的冰内气泡需要2000年以上才会闭合。在较温暖的环境以及融水作用下，冰的形成会更快。
 ![](/assets/images/notebook/640.png)
 注：（a）雪花到似球状雪粒的形成过程（b）烧结（c）烧结分步过程
-<p align="right">[*back to index*](/notebook/index)
-[*back to home*](https://fiiish-yu.github.io/)</p>
+
+[*back to index*](/notebook/index)
+[*back to home*](https://fiiish-yu.github.io/)
