@@ -6,8 +6,6 @@ Welcome to my GitHub Pages
 
 <font color=darkred>Hi，欢迎你的来访~</font>
 
-
-
 生活，总是在方方面面给人以惊，或喜。
 迎接它，拥抱它，最后再回馈它。
 

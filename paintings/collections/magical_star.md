@@ -7,9 +7,5 @@
 ![](/assets/images/magical_star/IMG_1154.GIF)
 
 两小只表情包！
-![](/assets/images/magical_star/meme.png)
-
-
-[*back to index*](/paintings/index)
-
-[*back to home*](https://fiiish-yu.github.io/)
+![](/assets/images/magical_star/meme.png)<p align="right">[*back to index*](/notebook/index)
+[*back to home*](https://fiiish-yu.github.io/)</p>
