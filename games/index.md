@@ -7,4 +7,4 @@ permalink: /games/
 
 this is a test.
 
-[*back to home*](https://fiiish-yu.github.io/)</p>
+[*back to home*](https://fiiish-yu.github.io/)
