@@ -9,5 +9,6 @@
 两小只表情包！
 ![](/assets/images/magical_star/meme.png)
 
-[*back to index*](/notebook/index)
+[*back to index*](/paintings/index)
+
 [*back to home*](https://fiiish-yu.github.io/)
