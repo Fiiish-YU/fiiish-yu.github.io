@@ -1,6 +1,6 @@
-第一个**Unity**小游戏，暂定名称《家务大作战》，英文名“The House Work”
+我和游戏的羁绊，从这里正式开始啦！
 
-### 简介
+### 游戏简介
 游戏设计的整体步骤大致分为游戏策划、素材制作和开发三大部分。首先讲讲策划思路。
 这是一款适用于家庭中好友或伴侣的双人游戏。
 游戏的灵感来源于家庭生活中不可避免的家务劳动。无论你是热爱家务劳动的勤劳小蜜蜂或者是个不爱打扫的懒虫，为了健康的生活环境和良好的生活习惯，也出于和好友、另一半共同经营快乐小窝的初心，共同分担家务或一起劳动，是最为合理、健康的方式。
@@ -48,3 +48,7 @@ PS：理想状态下，该游戏不需要联网支持，为离线模式。适合
 <div align="middle"><img  width="400" src="/assets/images/thehousework/staradventure3.gif"></div>
 
 <div align="middle"><img  width="400" src="/assets/images/thehousework/staradventure4.gif"></div>
+
+[*back to index*](/games/index)
+
+[*back to home*](https://fiiish-yu.github.io/)
