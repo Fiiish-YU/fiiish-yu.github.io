@@ -20,12 +20,12 @@
 ##### 第二弹
 > 名称：小橙子和星星
   上架时间：2021-11-29
-<div align="middle"><img  width="600" src="/assets/images/magical_star/2021-11-29.png"></div>
+<div align="middle"><img  width="600" src="/assets/images/magical_star/2021-11-29.PNG"></div>
 
 ##### 第三弹
 > 名称：快乐星橙
   上架时间：2022-2-4
-<div align="middle"><img  width="600" src="/assets/images/magical_star/3.png"></div>
+<div align="middle"><img  width="800" src="/assets/images/magical_star/3.png"></div>
 
 
 

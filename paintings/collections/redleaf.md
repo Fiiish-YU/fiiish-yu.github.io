@@ -3,7 +3,7 @@
 > 下雪啦！
 > 绘制时间：2022-1-20
  
-<div align="middle"><img  width="800" src="/assets/images/redleaf/2022-1-20.png"></div>
+<div align="middle"><img  width="800" src="/assets/images/redleaf/2022-1-20.PNG"></div>
 
 [*back to index*](/paintings/index)
 
