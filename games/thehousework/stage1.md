@@ -46,20 +46,62 @@ PS：理想状态下，该游戏不需要联网支持，为离线模式。适合
 <div align="middle"><img  width="400" src="/assets/images/thehousework/wuziqi.gif"></div>
 
 #### 横板跑酷类
+1. 背景搭建。给地面添加碰撞组件（BoxCollider2D）。
+2. 放置角色。将小星星位置x方向固定后设置跳跃。跳跃的实现十分简单，给角色添加BoxCollider2D和Rigidbody2D，使角色和场景可碰撞接触。编写脚本，设置按Space后给刚体施加一个向上的脉冲力：
+```
+public float force = 30f;
+private Vector2 jumpDirect = new Vector2(0,1);
+Rigidbody2D starbody;
+// Start is called before the first frame update
+void Start(){
+    starbody = GetComponent<Rigidbody2D>();
+}
+
+void Update(){
+    if (!Pause.pause){
+        // --- 按空格起跳 -----
+        if (Input.GetKeyDown(KeyCode.Space)){
+            starbody.AddForce(jumpDirect*force,ForceMode2D.Impulse);
+        }
+    } 
+}
+```
+3. 设置碰撞可得分的“紫色星星”。将此类制作成预制体，并在Update函数中不断生成新的星星，从摄像机视野范围外从右向左移动，直到10 s后销毁。
 
 <div align="middle"><img  width="400" src="/assets/images/thehousework/starrun2.gif"></div>
+
+制作过程中遇到一个有意思的点，在网上也没有搜到类似的问题（可能太简单了/狗头）。如上图，就是角色和其他物体碰撞时会产生了反作用力，导致角色被反弹回来。尝试解决过程中试了改变双方碰撞区域，但是效果有瑕疵且没有从根本上解决。转念一想物体之所以碰撞发生力的变化是因为引擎框架可能默认每个添加了BoxCollider2D组件的对象都具有了一些物理属性，因此给预制体新添加了刚体组件，质量归零后就不会有反作用力了。
 
 <div align="middle"><img  width="400" src="/assets/images/thehousework/starrun1.gif"></div>
 
 #### 横板探索类
 
+我理解的横板探索和横板跑酷区别就是前者可以自由移动，后者依靠背景移动的视觉效果营造角色在快速移动的效果，比如神庙逃亡。
+因此，像所有具有地图探索、开放世界的游戏一样，相机跟随角色是关键。效果如下：
+
 <div align="middle"><img  width="400" src="/assets/images/thehousework/staradventure1.gif"></div>
 
+解决了角色左右移动、场景基本要素以及相机跟随后，现在重点讲讲跳跃的问题。我们在玩类似游戏时，已经习惯了**WSAD**+**Space**组合键带来的前后左右跳跃效果，但在自己尝试这个功能前，我从未考虑过组合键顺序带来的跳跃效果的差异问题。横板中跳跃分三类情况：
+1. 按Space键垂直跳跃
+2. AD+Space组合键跳跃
+3. Space+AD组合键跳跃
+   
+第一类情况如下所示，在前面的跑酷中已实现：
 <div align="middle"><img  width="400" src="/assets/images/thehousework/staradventure2.gif"></div>
+
+关键在于后两类。首先在连按AD键形成左右移动的过程中，再按下Space时，记录按下时瞬间的位移值moveX，根据位移值比例添加一个倾斜方向的脉冲力F，角色的移动便是一定角度力的作用结果：
+```float moveX = Input.GetAxisRaw("Horizontal");```
+<div align="middle"><img  width="400" src="/assets/images/thehousework/staradventure4.gif"></div>
+
+而按下Space键后很短时间内按下AD键，逻辑就是在起跳时添加垂直向上的脉冲力F1，按下左右键时再添加水平方向上的脉冲力F2：
 
 <div align="middle"><img  width="400" src="/assets/images/thehousework/staradventure3.gif"></div>
 
-<div align="middle"><img  width="400" src="/assets/images/thehousework/staradventure4.gif"></div>
+这就导致两种组合键方式下跳跃的路径不一致，看示意图就很容易理解了：
+<div align="middle"><img  width="400" src="/assets/images/thehousework/force.jpg"></div>
+
+
+
 
 ### 用于结尾的碎碎念
 独立制作游戏确实是一个漫长的过程。游戏框架是在21年11月的某一天中午思考了片刻就瞎编出来的，在此之前我随手画的小卡通形象派上了用场，并在当月给两个角色分别绘制了套表情包上架到微信，也是十分有趣，且一发不可收。学习十分繁重的情况下，终于在今年寒假跟学了一个Unity教程后上手自己制作，不得不说比Pygame要方便的多。本着练习的态度，想给这个游戏框架塞各种小游戏，同时引入道具系统、升级养成、收集以及种田模式等等等等，总之慢慢来吧，乐在其中。
