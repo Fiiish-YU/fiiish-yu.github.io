@@ -13,7 +13,7 @@
 苏筱听了前半句刚想欢呼，此时又听了后半句，想起来什么，于是眼睛一瞪，“我就知道！好不容易请到假却要拉上我，果真不是为了带我出来玩的。我要花枝楼最新的糖果，不然回去我就告诉娘亲，你别有目的...！！”
 
 少年瞧了身边气鼓鼓的小妹一眼，说了声“好。”又继续往前走，声音干净清冽，却掩不住笑意。
-- [*last chapter :* 第1章 进城啦](https://fiiish-yu.github.io/redleaf/chapters/chapter1)
 - [*next chapter :* 第3章 小酒馆](https://fiiish-yu.github.io/redleaf/chapters/chapter3)
+- [*last chapter :* 第1章 进城啦](https://fiiish-yu.github.io/redleaf/chapters/chapter1)
 - [*back to index*](https://fiiish-yu.github.io/redleaf/index)
 - [*back to home*](https://fiiish-yu.github.io/)
