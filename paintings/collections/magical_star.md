@@ -37,5 +37,5 @@
 **插画**
 <div align="middle"><img  width="600" src="/assets/images/magical_star/newyear.png"></div>
 
-[*back to index*](/paintings/index)
-[*back to home*](https://fiiish-yu.github.io/)
+- [*back to index*](/paintings/index)
+- [*back to home*](https://fiiish-yu.github.io/)

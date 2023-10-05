@@ -19,6 +19,5 @@
  
 <div align="middle"><img  width="800" src="/assets/images/redleaf/2022-9-11.png"></div>
 
-[*back to index*](/paintings/index)
-
-[*back to home*](https://fiiish-yu.github.io/)
+- [*back to index*](/paintings/index)
+- [*back to home*](https://fiiish-yu.github.io/)
