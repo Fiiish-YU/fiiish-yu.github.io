@@ -14,6 +14,7 @@ Welcome to my GitHub Pages
 - [fiction](/redleaf/index)：这里是我的小说《红叶城》
 - [notebook](/notebook/index)：这里是一些小笔记
 - [games](/games/index):这里有一些我对游戏的评说和游玩分享
+- [摄影杂谈](/photography/)：记录摄影作品和拍摄时的点滴
 
 另外，以下是我的GitHub主页：
 [my github](https://github.com/Fiiish-YU) : https://github.com/Fiiish-YU
